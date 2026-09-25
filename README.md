@@ -178,15 +178,3 @@ Important project code screenshots can be added here:
 The project provides a foundation for developing a more advanced real-estate valuation system. With additional data, improved prediction models, and more application features, the system can be further enhanced for practical real-estate use.
 
 ---
-
-## 📚 References
-
-* R Documentation — `tidyverse`
-* R Documentation — `grid`
-* R Documentation — `grDevices`
-* R Documentation — `graphics`
-* R Documentation — `stats`
-
-
-
-This project is developed for academic and educational purposes.
